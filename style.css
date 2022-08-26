@@ -29,7 +29,7 @@ body{
     z-index : 500;
     width   : 100%;
     height  : 50px;
-    background-color: #D8AC9C;
+    background-color: #FF5403;
 }
 
 #tabs-top a {
@@ -55,7 +55,7 @@ body{
     z-index  : 500;
     width    : 100%;
     height   : 40px;
-    background-color: #D8AC9C;
+    background-color: #FF5403;
 }
 
 #tabs-bottom a{
@@ -180,7 +180,7 @@ textarea{
 
 .button{
     display : block;
-    background-color: #D8AC9C;
+    background-color: #FF5403;
     text-decoration : none;
     text-align  : center;
     color       : white;
