@@ -1,6 +1,6 @@
-# Module-2-Assessmet-1
+# Module-2-Assessment-2
 
-## Pine City Zoo App
+## Pine City Mall App
 
 Learned how to:
 - Apply basic guidelines for the web-page design.
